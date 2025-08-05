@@ -113,7 +113,7 @@ def main():
         print("7. Rank Students by Batch")
         print("8. Export to JSON")
         print("9. Import from JSON")
-        print("0. Exit")
+        print("10. Exit")
 
         choice = input("Enter your choice: ")
 
